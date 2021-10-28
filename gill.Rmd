@@ -2,7 +2,7 @@
 title: "Gilligan"
 ---
 <center>
-<img src="pictures/gilligan1.jpg" alt="Sir Gilligan" />
+<img src="pictures/gilligan1.JPG" alt="Sir Gilligan" />
 </center>
 
 __Gilligan the Bold__
