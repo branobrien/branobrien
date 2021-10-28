@@ -1,0 +1,19 @@
+---
+title: "Gilligan"
+---
+<center>
+<img src="pictures/gilligan1.jpg" alt="Sir Gilligan" />
+</center>
+
+__Gilligan the Bold__
+
+
+
+__Stats__
+Species: _Felis catus_
+Type: Fire
+
+Attack: 35
+Defense: 20
+Speed: 31
+HP: 50

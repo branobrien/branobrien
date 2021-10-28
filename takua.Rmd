@@ -1,0 +1,16 @@
+---
+title: "Takua"
+---
+
+Takua, the guiding light.
+
+
+__Stats__
+Species: _Ambystoma mexicanum_ 
+Type: Water
+
+Attack:
+Defense:
+Speed:
+HP: 
+

@@ -1,0 +1,27 @@
+name: "Website 2.0"
+
+navbar:
+  title: Home
+  left:
+  - text: About Me
+    href: about.html
+  - text: Allies
+    menu:
+    - text: Gilligan
+      href: gill.html
+    - text: Takua
+      href: takua.html
+    - text: Nelson
+      href: nelson.html
+  - text: Dasysiphonia
+    href: dasy.html
+    
+    
+  right:
+    - text: Contact
+      href: contact.html
+      
+  
+output: 
+  html_document:
+    theme: darkly
